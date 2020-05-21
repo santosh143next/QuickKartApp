@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\QuickKartApp",
+    "\\QuickKartApp\\src",
+    "\\QuickKartApp\\src\\app",
+    "\\QuickKartApp\\src\\app\\login",
+    "\\QuickKartApp\\src\\app\\quickKart-interfaces",
+    "\\QuickKartApp\\src\\app\\quickKart-services",
+    "\\QuickKartApp\\src\\app\\quickKart-services\\product-service",
+    "\\QuickKartApp\\src\\app\\view-products",
+    "\\QuickKartApp\\src\\assets"
+  ],
+  "SelectedNode": "\\QuickKartApp\\src\\app\\view-products\\view-products.component.ts",
+  "PreviewInSolutionExplorer": false
+}
